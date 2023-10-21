@@ -18,4 +18,4 @@ Pembagian Tugas Pembuatan Project 4:
 
 Note : Disini kita menggunakan firebase dengan menggunakan tipe constraint layout dan untuk Front End desain XML kita mengerjakannya secara bersama2 pada saat melakukan Vmeet.
 
-![RedBusApp](https://github.com/muhraflisolo/REDBUSAPP/assets/86872567/abc47e72-7d82-4b52-9944-6bc09d036b13)
+![RedBusApp](https://github.com/muhraflisolo/REDBUSAPP/assets/86872567/700fee41-9845-420d-b16f-f487a08b6e56)
